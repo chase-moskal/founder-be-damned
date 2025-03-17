@@ -6,7 +6,7 @@
 
 <br/>
 
-## Fuck you
+## Chapter 1: *Fuck you*
 
 Deciding to become a tech founder was an overconfident, grandiose, and arrogant thing for you to do. And you deserve to be punished. And you will be.
 
@@ -54,7 +54,7 @@ A cheap laptop is the only equipment required to unlock an unbounded ability to 
 
 <br/>
 
-## The Hustler & The Craftsman
+## Chapter 2: *The Hustler & The Craftsman*
 - (todo)
 - protect the golden goose that lays the golden eggs
 - hustler cares about results -- avoids the work, shallow, conman
@@ -62,7 +62,7 @@ A cheap laptop is the only equipment required to unlock an unbounded ability to 
 
 <br/>
 
-## The Drought & The Flood
+## Chapter 3: *The Drought & The Flood*
 - (todo)
 - productivity deserts
 - dark carmack floods
