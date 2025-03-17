@@ -8,9 +8,11 @@ Deciding to become a founder was a confident, grandiose, and arrogant thing for 
 
 The path to becoming a StarCraft grandmaster, involves losing *so many* StarCraft games. Dominated and humiliated. Revealed to be unworthy. Inadequate. How could it be otherwise? The path for the technical founder, the true builder, is no different. Well, except that StarCraft is *usually* fun.
 
-You are *inadequate*. You will fail. You will disappoint yourself. You will let everybody down. You'll become a drain. Loved ones will lose faith in you. Friends will argue against you. They'll become defensive. They'll come to *hope* you'll fail. *See? I told you...* But don't you deserve it? After all, you're being *cosmically* arrogant.
+You are *inadequate*. You will fail. You will disappoint yourself. You will let everybody down. You'll become a drain. Loved ones will lose faith in you. Friends will argue against you. They'll become defensive, and *hope* you'll fail. *See? I told you...* But don't you deserve it? After all, you're being *cosmically* arrogant.
 
 But, maybe you won't fail? Maybe you could get lucky on your first swing? But... what about the second? Or, maybe you're already adequate for the task. You won't have any catastrophes! You're just as great as your parents, teachers, and bosses have told you. Yeah, okay... maybe you should get into StarCraft? I think Serral's online today...
+
+But here's the thing: people *do* become grandmasters, don't they? If you have a modicum of intelligence, and you made it your life goal, do you think you could become a grandmaster, too? Watch their twitch streams. Do you think these people are god-gifted wizards? Or do you think they've played 50,000 games while losing about half as many?
 
 Doesn't it seem like all these damn startup books are written by "people-people"? Impress an angel investor! Hiring is about building your "culture". The *bay area!* But didn't somebody have to *actually* build this shit?
 
