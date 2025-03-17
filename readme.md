@@ -30,7 +30,7 @@ Can you become a grandmaster at making cool shit that people love?
 
 *Victory or death!* Feels good to say, doesn't it?
 
-Feels different when you're losing balance at the chasm's edge. This won't make you happy. It's not fun. If you have neurotic tendencies, or you're a ruminator, if you get sad sometimes, or people depend on you — then get the hell out! Bail. Live a normal happy life. Go home to your girlfriend, watch netflix, and get ready for work tomorrow like a good boy. *Close this now!*
+Feels different when you're losing balance at the chasm's edge. This won't make you happy. It's not fun. If you have neurotic tendencies, or you're a ruminator, if you get sad sometimes, or people depend on you — *then get the hell out!* Bail! Live a normal happy life. Go home to your girlfriend, watch netflix, and get ready for work tomorrow like a good boy. *Close this now!*
 
 Still here? You can't be deterred? You really are an arrogant fucker.
 
@@ -40,7 +40,9 @@ You'd better be driven by more than a lust for "boats 'n hoes" and "fat stacks o
 
 Do you have an inexhaustible inner flame? Do you need power, or recognition? Are you doing God's work? Whatever dude, it better be some deeply-rooted psychological shit for you to work out with your therapist. Actually, don't — it works better this way.
 
-Have you at least been doing your homework? Doesn't it seem like all these damn startup books are written by "people-people"? Impress an angel investor. Hiring is about *culture.* The *bay area!* But hold on — didn't somebody have to actually *build* this shit?
+### Have you at least been doing your homework?
+
+Doesn't it seem like all these damn startup books are written by "people-people"? Impress an angel investor. Hiring is about *culture.* The *bay area!* But hold on — didn't somebody have to actually *build* this shit?
 
 Fine. You can keep *zero to one*, the old yc vids, and the pg essays.
 
