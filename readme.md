@@ -22,7 +22,7 @@ Imagine trying to become a StarCraft grandmaster. How many games would you lose?
 
 But, maybe you won't fail building your first product? You could get lucky on your first swing. But then what about the second? Or maybe you're already adequate for the task. You won't have any catastrophes! You're just as great as your parents, teachers, and bosses have told you. Yeah, okay... you really should get into StarCraft, maybe Serral's online.
 
-Here's the thing: people *do* achieve grandmaster rank. Watch their twitch streams: are these guys god-gifted ubermensch wizards, or have they just played tens of thousands of games and lost about half as many? If you're at least a midwit, and you made it your life goal, do you think you could become a grandmaster one day?
+Here's the thing though: people *do* achieve grandmaster rank. Watch their twitch streams: are these guys god-gifted ubermensch wizards, or have they just played tens of thousands of games and lost about half as many? If you're at least a midwit, and you made it your life goal, do you think you could become a grandmaster one day?
 
 Can you become a grandmaster at making cool shit that people love?
 
