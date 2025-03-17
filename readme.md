@@ -55,8 +55,8 @@ This is about what you must become.
 ## Chapter 2: *The Hustler & The Craftsman*
 - (todo)
 - protect the golden goose that lays the golden eggs
-- hustler cares about results -- avoids the work, shallow, conman
-- craftsman cares about greatness -- obsesses about the work, deep, drowning
+- hustler cares about returns -- avoids the work; shallow; conman
+- craftsman cares about product -- obsesses over the work; deep; drowning
 
 <br/>
 
