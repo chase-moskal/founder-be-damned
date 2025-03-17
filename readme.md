@@ -10,7 +10,7 @@
 
 Deciding to become a tech founder was an overconfident, grandiose, and arrogant thing for you to do. And you deserve to be punished. And you will be.
 
-You are *inadequate.* You will fail. Friends and family will lose faith in you. You'll let everybody down. Everybody will argue against you. They'll even *hope* for you to fail. You'll even disappoint yourself. *See? I told you.*
+You are *inadequate.* You will fail. Friends and family will lose faith in you. You'll let everybody down. Everybody will argue against you. They'll *hope* for you to fail. You'll even disappoint yourself. *See? I told you.*
 
 But don't you deserve it, really? After all, you're being *cosmically* arrogant.
 
