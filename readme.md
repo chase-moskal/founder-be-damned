@@ -10,21 +10,19 @@
 
 Deciding to become a tech founder was an overconfident, grandiose, and arrogant thing for you to do. And you deserve to be punished. And you will be.
 
-You think you can build your own app, and make money? A new technology, and change the industry? Something beautiful, and people appreciate it? What the fuck is wrong with you, and why do you think you could be a *somebody?*
+You are *inadequate.* You will fail. You'll disappoint yourself. Friends and family will lose faith in you. You'll become a drain. You'll let everybody down. Everybody will argue against you. They'll even *hope* for you to fail. *See? I told you...*
 
-The truth is, you are *inadequate*. You will fail. You'll disappoint yourself. You'll let everybody down. You'll become a drain. Loved ones will lose faith in you. Friends will argue against you. They'll *hope* for you to fail. *See? I told you...*
-
-But don't you deserve it? After all, you're being *cosmically* arrogant.
+But don't you deserve it, really? After all, you're being *cosmically* arrogant.
 
 ### Delusions of grandeur
 
-A cheap laptop is the only equipment required to build incredible things that touch the lives of millions. If only you knew how to type the right keystrokes to pull it off.
+A cheap laptop is all you need to touch the lives of millions. If only you knew how to type the right keystrokes to pull it off.
 
-Imagine trying to become a StarCraft grandmaster. How many games would you lose? Stomped. Humiliated. Stupid mistakes! Revealed to be inadequate. Could it be otherwise? The path for the technical founder, the true builder, is no different. Well, except that StarCraft is supposed to be fun, isn't it?
+Imagine trying to become a StarCraft grandmaster. How many games would you lose? Stomped. Humiliated. Stupid mistakes! The path of the technical founder, the true builder, is no different. Well except that StarCraft is supposed to be fun, right?
 
-But, maybe you won't fail? Maybe you could get lucky on your first swing. But then... what about the second? Or, maybe you're already adequate for the task. You won't have any catastrophes! You're just as great as your parents, teachers, and bosses have told you. Yeah, okay bud... maybe you should get into StarCraft? I think Serral's online today...
+But, maybe you won't fail building your first product? You could get lucky on your first swing. But then what about the second? Or maybe you're already adequate for the task. You won't have any catastrophes! You're just as great as your parents, teachers, and bosses have told you. Yeah, okay... you really should get into StarCraft, maybe Serral's online.
 
-Here's the thing: people *do* become grandmasters, don't they? If you're at least a midwit, and you made it your life goal, do you think you could become a grandmaster too? Watch their twitch streams. Do you think these guys are god-gifted wizards, or have they played tens of thousands of games while losing about half as many?
+Here's the thing: people *do* achieve grandmaster rank. Watch their twitch streams: are these guys god-gifted ubermensch wizards, or have they just played tens of thousands of games and lost about half as many? If you're at least a midwit, and you made it your life goal, do you think you could become a grandmaster one day?
 
 Can you become a grandmaster at making cool shit that people love?
 
@@ -32,19 +30,21 @@ Can you become a grandmaster at making cool shit that people love?
 
 *Victory or death!* Feels good to say, doesn't it?
 
-Feels different when you're losing balance standing at the chasm's edge. This won't make you happy. It's not fun. If you're pessimistic, a ruminator, if you get sad sometimes, if people depend on you — get the hell out. Bail and live a normal happy life. Go home to your girlfriend, watch netflix, and get ready for work tomorrow like a good boy. *Close this now!*
+Feels different when you're losing balance at the chasm's edge. This won't make you happy. It's not fun. If you have neurotic tendencies, or you're a ruminator, if you get sad sometimes, or people depend on you — then get the hell out! Bail. Live a normal happy life. Go home to your girlfriend, watch netflix, and get ready for work tomorrow like a good boy. *Close this now!*
 
-Still here? You can't be deterred? You really are an arrogant fucker. You'd better not be a neurote. You know, a person with detectable trait neuroticism? That's not going to fly one bit. In fact, you'd better not let any neurotes get anywhere near you.
+Still here? You can't be deterred? You really are an arrogant fucker.
 
-If you really want to be extraordinary, then you don't get to have ordinary life anymore. That was a privilege, and you sold it. Work-life balance, are you kidding me? Carmack and Blow would like a word with you. And don't forget: every time you fail, you'll have nobody to blame but yourself, and nobody should feel sorry for you. You chose this.
+You want to do something extraordinary? Well, then you don't get to have an ordinary life anymore. That was a privilege, and you just sold it. Work-life balance, are you kidding me? Carmack and Blow would like a word with you. And don't forget: every time you fail, you'll have nobody to blame but yourself, and nobody should feel sorry for you. You chose this.
 
-You'd better be driven by more than a lust for "boats 'n hoes" and "fat stacks of cash". Maybe you'll get that in the end, but in the meantime, may I instead interest you with decades of uncertainty, stress, and workaholism?
+You'd better be driven by more than a lust for "boats 'n hoes" and "fat stacks of cash". Maybe you'll get that in the end, but in the meantime, may I interest you instead with decades of uncertainty, stress, and workaholism?
 
-So you'd better have an unquenchable inner flame you don't understand. Do you need something worth dying for, to truly live? Hard to find, these days. Do you need power? Recognition? Are you doing God's work? Whatever dude, it better be some deeply-rooted psychological shit for you to work out with your therapist. Actually, don't — it works better this way.
+Do you have an inexhaustible inner flame? Do you need power, or recognition? Are you doing God's work? Whatever dude, it better be some deeply-rooted psychological shit for you to work out with your therapist. Actually, don't — it works better this way.
 
-Have you at least been doing your homework? Doesn't it seem like all these damn startup books are written by "people-people"? Impress an angel investor. Hiring is about building *a culture.* The *bay area!* But, they seem to be glossing over something... hey wait — didn't somebody have to actually *build* this shit? Fine, you can keep "Zero to One", the old YC Stanford vids, and your PG essays.
+Have you at least been doing your homework? Doesn't it seem like all these damn startup books are written by "people-people"? Impress an angel investor. Hiring is about *culture.* The *bay area!* But hold on — didn't somebody have to actually *build* this shit?
 
-This "book" or whatever, is not written in retrospect. It's about the strategy and tactics of building. It's about the builder's mind. It's about you, your keyboard, and your demons.
+Fine. You can keep *zero to one*, the old yc vids, and the pg essays.
+
+This "book" or whatever, is not written in retrospect. It's about building. It's about the builder's mind. It's about you, your keyboard, and your demons.
 
 This is about what you must become.
 
