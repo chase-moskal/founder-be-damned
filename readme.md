@@ -18,7 +18,7 @@ The right kind of tech founder — *the true builder* — is a wizard with such 
 
 But... *you?*
 
-You are inadequate. And you will fail. You'll let everybody down, and your friends and family will lose faith in you. They'll argue against you, hoping for you to fail. You'll even disappoint yourself.
+You are inadequate. And you will fail. You'll let everybody down, and your friends and family will lose faith in you. Most will argue against you, hoping for you to fail. You'll even disappoint yourself.
 
 But don't you deserve it, really? After all, you've been cosmically arrogant.
 
@@ -26,9 +26,9 @@ But don't you deserve it, really? After all, you've been cosmically arrogant.
 
 Imagine trying to become a starcraft grandmaster. How many games should you expect to lose? Stomped. Humiliated. Stupid mistakes! The true builder's path is no different. Except that starcraft is supposed to be fun, isn't it?
 
-But wait, maybe you won't fail building your first tech thing? You could get lucky on your first swing. But then what about the second? Or, maybe you're already adequate for the task, just as great as your parents, teachers, and bosses have told you all your life. You won't have any catastrophes! Yeah, you really should get into starcraft — you'll be a *natural.*
+But wait, maybe you won't fail building your first tech thing? You could get lucky on your first swing. But then what about the second? Is relying on luck a good strategy? Or, maybe you're already perfectly adequate for the task, just as great as your parents, teachers, and bosses have told you all your life. You won't have any catastrophes! Yeah, you really should get into starcraft — you'll be a *natural.*
 
-Here's the thing though: people *do* attain grandmaster rank, don't they? Watch their twitch streams: are these guys all god-gifted ubermensch gigachads? Or have they just played tens of thousands of games, while losing about half as many? If you're at least a midwit, and you made it your life goal, do you think you too could become a grandmaster one day?
+Here's the thing though: people *do* attain grandmaster rank, don't they? Watch their twitch streams: are these guys all god-gifted ubermensch gigachads? Or have they just played tens of thousands of games, while losing about half as many? If you're at least a midwit, and you made it your life goal, could you too become a grandmaster one day?
 
 Could you become a grandmaster at building cool tech shit that people love?
 
@@ -68,4 +68,5 @@ This is about what you must become.
 - (todo)
 - productivity deserts
 - dark carmack floods
+- feast or famine
 
