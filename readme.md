@@ -1,5 +1,5 @@
 
-![](./assets/banner.jpg)
+![](./assets/banner2.jpg)
 
 # FOUNDER BE DAMNED
 &nbsp; &nbsp; — *by Chase Moskal*
